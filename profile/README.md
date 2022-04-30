@@ -18,7 +18,7 @@ External network access is denied. Printer service (using cups) and sound servic
 
 abcdesktop.io provides a way to run grapicals applications securely isolated in a docker container, and use a web browser HTML5 as display device. Because docker containers are lightweight and run without the extra load of an operating system, you can run many graphical applications on a single kernel or even on a kubernetes cluster.
 
-![screenshot-applications](img/screenshot-applications.png)
+![screenshot-applications](screenshot-applications.png)
 
 ## Quick installation for kubernetes
 
