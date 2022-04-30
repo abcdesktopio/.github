@@ -34,7 +34,7 @@ Download and extract the latest release automatically (Linux or macOS) or read t
 curl -L https://raw.githubusercontent.com/abcdesktopio/conf/main/docker/install.sh | sh -
 ```
 
-### Features
+### abcdesktop.io features 
 
 - Complete native cloud desktop, workspace environment
 - Authentification OAuth 2.0, LDAP, LDAPS, Active Directory, Kerberos
@@ -45,9 +45,9 @@ curl -L https://raw.githubusercontent.com/abcdesktopio/conf/main/docker/install.
 - Off-line sessions are maintained
 - No need to install applications any more
 - Application update, run latest docker image
-- Accounting and reporting 
+- Accounting and reporting (Graylog, Prometheus Grafana)
 - Clipboard syncing
-- Sound support with webrtc gateway and RTP stream
+- Sound support with [Janus WebRTC Gateway](https://janus.conf.meetecho.com/) and RTP stream
 
 ### Applications
 
