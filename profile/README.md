@@ -1,7 +1,7 @@
 
 # Welcome to abcdesktop.io, a desktopless system
 
-abcdesktop.io = NoVNC + X11 + Docker
+abcdesktop.io = NoVNC + TigerVNC x11 + Kubernetes 
 
 abcdesktop.io is a cloud native desktopless system, and a complete work environment accessible from a simple HTML 5 web browser, without any installation. Like serverless does, desktopless computing allocates desktop resources on demand.  **Each user’s application runs as a container** to reduce attack surface.
 abcdeskop.io is an opensource and free solution that offer seamless access to secure desktops and applications on any device, follow the [https://github.com/abcdesktopio](https://github.com/abcdesktopio) links.
@@ -18,7 +18,7 @@ External network access is denied. Printer service (using cups) and sound servic
 
 abcdesktop.io provides a way to run grapicals applications securely isolated in a docker container, and use a web browser HTML5 as display device. Because docker containers are lightweight and run without the extra load of an operating system, you can run many graphical applications on a single kernel or even on a kubernetes cluster.
 
-![screenshot-applications](screenshot-applications.png)
+![screenshot-applications](profile/screenshot-applications.png)
 
 ## Quick installation for kubernetes
 
