@@ -1,5 +1,5 @@
 
-# Welcome to abcdesktop.io, a desktopless system
+# abcdesktop.io is a desktopless services
 
 abcdesktop.io = NoVNC + TigerVNC x11 + Kubernetes 
 
