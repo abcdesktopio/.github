@@ -61,7 +61,4 @@ abcdesktop has 36 repositories available. Follow the code on GitHub [https://git
 
 # Sponsors
 
-|-------|-------|
-| ![orange](Orange_logo.svg){: style="height:64px;width:64px"}  | [Orange](https://www.orange.com) is an official sponsor of abcdesktop.io project |
-|-------|-------|
-
+- [Orange](https://www.orange.com) is an official sponsor of abcdesktop.io project
