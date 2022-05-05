@@ -59,3 +59,9 @@ curl -L https://raw.githubusercontent.com/abcdesktopio/conf/main/docker/install.
 
 abcdesktop has 36 repositories available. Follow the code on GitHub [https://github.com/abcdesktopio](https://github.com/abcdesktopio) to get the source code.
 
+# Sponsors
+
+|-------|-------|
+| ![orange](Orange_logo.svg){: style="height:64px;width:64px"}  | [Orange](https://www.orange.com) is an official sponsor of abcdesktop.io project |
+|-------|-------|
+
