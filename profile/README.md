@@ -1,5 +1,5 @@
 
-# abcdesktop.io is a desktopless services
+# abcdesktop.io is a desktopless service
 
 [https://www.abcdesktop.io](https://www.abcdesktop.io) is a cloud native desktopless system, and a complete work environment accessible from a simple HTML 5 web browser, without any installation. Like serverless does, desktopless computing allocates desktop resources on demand.  **Each user’s application runs as a container** to reduce attack surface.
 abcdeskop.io is an opensource and free solution that offer seamless access to secure desktops and applications on any device, follow the [https://github.com/abcdesktopio](https://github.com/abcdesktopio) links.
