@@ -27,13 +27,6 @@ Download and extract the latest release automatically (Linux or macOS) or read t
 curl -sL https://raw.githubusercontent.com/abcdesktopio/conf/main/kubernetes/install.sh | sh -
 ```
 
-## Quick installation for docker (personal use, Non-cluster mode)
-
-Download and extract the latest release automatically (Linux or macOS) or read the step by step installation process [abcdesktop for docker](/setup/dockermode/)
-```
-curl -L https://raw.githubusercontent.com/abcdesktopio/conf/main/docker/install.sh | sh -
-```
-
 ### abcdesktop.io features 
 
 - Complete native cloud desktop, workspace environment
