@@ -22,10 +22,10 @@ abcdesktop.io provides a way to run grapicals applications securely isolated in 
 
 ## Quick installation for kubernetes
 
-Download and extract the latest release automatically (Linux or macOS) or read the step by step installation process [abcdesktop for kubernetes](https://www.abcdesktop.io/3.2/setup/kubernetes_abcdesktop/)
+Download and extract the latest release automatically (Linux or macOS) or read the step by step installation process [abcdesktop for kubernetes](https://www.abcdesktop.io/3.3/setup/kubernetes_abcdesktop/)
 
 ```
-curl -sL https://raw.githubusercontent.com/abcdesktopio/conf/main/kubernetes/install-3.2.sh | sh -
+curl -sL https://raw.githubusercontent.com/abcdesktopio/conf/main/kubernetes/install-3.3.sh | sh -
 ```
 
 
