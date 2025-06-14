@@ -25,7 +25,7 @@ abcdesktop.io provides a way to run grapicals applications securely isolated in 
 Download and extract the latest release automatically (Linux or macOS) or read the step by step installation process [abcdesktop for kubernetes](https://www.abcdesktop.io/3.3/setup/kubernetes_abcdesktop/)
 
 ```
-curl -sL https://raw.githubusercontent.com/abcdesktopio/conf/main/kubernetes/install-3.3.sh | sh -
+curl -sL https://raw.githubusercontent.com/abcdesktopio/conf/main/kubernetes/install-4.0.sh | sh -
 ```
 
 
