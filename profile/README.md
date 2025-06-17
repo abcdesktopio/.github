@@ -29,7 +29,7 @@ curl -sL https://raw.githubusercontent.com/abcdesktopio/conf/main/kubernetes/ins
 ```
 
 
-### abcdesktop.io features 
+### abcdesktop.io features 
 
 - Complete native cloud desktop, workspace environment
 - Authentification OAuth 2.0, LDAP, LDAPS, Active Directory, Kerberos
